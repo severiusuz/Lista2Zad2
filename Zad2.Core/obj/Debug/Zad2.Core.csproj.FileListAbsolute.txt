@@ -1,0 +1,5 @@
+D:\33InfA\Pieniazek\Lista2\Zad2\Zad2.Core\bin\Debug\Zad2.Core.dll
+D:\33InfA\Pieniazek\Lista2\Zad2\Zad2.Core\bin\Debug\Zad2.Core.pdb
+D:\33InfA\Pieniazek\Lista2\Zad2\Zad2.Core\obj\Debug\Zad2.Core.csprojResolveAssemblyReference.cache
+D:\33InfA\Pieniazek\Lista2\Zad2\Zad2.Core\obj\Debug\Zad2.Core.dll
+D:\33InfA\Pieniazek\Lista2\Zad2\Zad2.Core\obj\Debug\Zad2.Core.pdb
